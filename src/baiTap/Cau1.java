@@ -16,8 +16,7 @@ public class Cau1 {
 	
 	public static void main(String[] args) {
 		int stop;
-		int userChoose;
-		int computerChoose;
+		int userChoose; int computerChoose;
 		int user = 0; int computer = 0;
 		
 		Random rn = new Random();
